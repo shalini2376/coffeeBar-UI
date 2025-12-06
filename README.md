@@ -29,11 +29,11 @@ This project was created during the early stages of frontend learning to practic
 ## 📸 Screenshots
 
 ![Home Page](./screenshots/home.png)
-![Menu Section](./screenshots/about.png)
+![about Section](./screenshots/about.png)
 ![Menu Section](./screenshots/menu.png)
-![Menu Section](./screenshots/products.png)
-![Menu Section](./screenshots/contact.png)
-![Menu Section](./screenshots/blog.png)
+![products Section](./screenshots/products.png)
+![contact Section](./screenshots/contact.png)
+![blog Section](./screenshots/blogs.png)
 
 
 
