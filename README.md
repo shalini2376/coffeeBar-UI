@@ -4,7 +4,7 @@ CoffeeBar UI is a **responsive coffee shop website** built using **HTML, CSS, an
 This project was created during the early stages of frontend learning to practice layout design, responsiveness, and UI styling.
 
 # Live Demo
-   `https://shalini2376.github.io/coffeeBar-UI`
+   https://shalini2376.github.io/coffeeBar-UI
 
 ## ✨ Features
 - Fully responsive design for desktop, tablet, and mobile
